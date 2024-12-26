@@ -1,7 +1,7 @@
 # Llama Image Analyzer
 
 Llama Image Analyzer is a web application that allows users to upload an image and ask questions about it. The app uses a backend service to analyze the image and provide descriptive responses based on the user's input.
-The backend API project can be found [here](https://github.com/yourusername/llama-image-analyzer-backend).
+The backend API project can be found [here](https://github.com/benincasantonio/ollama-image-analyzer.API).
 
 ## Features
 
